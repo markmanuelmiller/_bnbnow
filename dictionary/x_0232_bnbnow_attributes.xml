@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Attributes" max_length="40" name="x_0232_bnbnow_attributes" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Experience" max_length="40" name="experience" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Positive" sequence="1" value="Positive"/>
+                <element inactive_on_update="false" label="Negative" sequence="2" value="Negative"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Name" max_length="50" name="name" type="string_full_utf8"/>
+    </element>
+</database>

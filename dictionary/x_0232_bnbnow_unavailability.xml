@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Unavailability" max_length="40" name="x_0232_bnbnow_unavailability" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Listing" max_length="32" name="listing" reference="x_0232_bnbnow_listing" type="reference"/>
+        <index name="index">
+            <element name="listing"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_0232_bnbnow.BnBNowUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>BnBNowUtils</name>
+        <script><![CDATA[var BnBNowUtils = Class.create();
+BnBNowUtils.prototype = {
+    initialize: function() {
+		this.reviewableWindowInDays = 10;
+    },
+	
+	/**
+	 *  - if current user is the guest
+	 *  - if 
+	 */
+	isReviewableGuest: function(current) {
+		
+		//var gr = new GlideRecord('');
+		if (current.getValue('guest') == gs.getUserID()) {
+			
+		}
+		
+		return true;
+	},
+
+    type: 'BnBNowUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-10 17:38:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>870f2177db0773c09bc7dec0cf961922</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>BnBNowUtils</sys_name>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_update_name>sys_script_include_870f2177db0773c09bc7dec0cf961922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-10 18:21:42</sys_updated_on>
+    </sys_script_include>
+</record_update>

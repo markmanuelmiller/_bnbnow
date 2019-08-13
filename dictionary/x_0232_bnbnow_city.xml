@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="City" max_length="40" name="x_0232_bnbnow_city" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Name" max_length="255" name="name" type="string_full_utf8"/>
+        <element label="Region/Province/State" max_length="32" name="state" reference="x_0232_bnbnow_state" type="reference"/>
+        <index name="index">
+            <element name="state"/>
+        </index>
+    </element>
+</database>

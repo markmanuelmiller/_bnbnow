@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Reservation" max_length="40" name="x_0232_bnbnow_reservation" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="End" max_length="40" name="end" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Guest" max_length="32" name="guest" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Listing" max_length="32" name="listing" reference="x_0232_bnbnow_listing" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Start" max_length="40" name="start" type="glide_date"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="3" default="Awaiting approval" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting approval" sequence="1" value="Awaiting approval"/>
+                <element inactive_on_update="false" label="Awaiting start" sequence="2" value="Awaiting start"/>
+                <element inactive_on_update="false" label="In Progress" sequence="3" value="In Progress"/>
+                <element inactive_on_update="false" label="Reviewable" sequence="4" value="Reviewable"/>
+                <element inactive_on_update="false" label="Completed" sequence="5" value="Completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="6" value="Cancelled"/>
+            </choice>
+        </element>
+        <element choice="3" default="Pending" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="Pending"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="Approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="Rejected"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="guest"/>
+        </index>
+        <index name="index2">
+            <element name="listing"/>
+        </index>
+    </element>
+</database>

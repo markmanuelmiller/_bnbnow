@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>BnBNow Availability Calendar</name>
+        <scoped_name>x_0232_bnbnow_BnBNow Availability Calendar</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-03 20:52:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e938166ddb83bb809bc7dec0cf9619be</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>BnBNow Availability Calendar</sys_name>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_update_name>sys_ui_macro_e938166ddb83bb809bc7dec0cf9619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-03 20:58:31</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	
+<!--<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />-->
+	
+<input type="date" name="daterange" value="" />
+
+<!--<script>
+$(function() {
+  $('input[name="daterange"]').daterangepicker({
+    opens: 'left'
+  }, function(start, end, label) {
+    console.log("A new date selection was made: " + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD'));
+  });
+});
+</script>-->
+
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

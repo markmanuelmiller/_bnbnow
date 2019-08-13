@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control_embedded">
+    <sys_ui_list_control_embedded action="INSERT_OR_UPDATE">
+        <columns_condition/>
+        <empty_condition/>
+        <label>Unavailability</label>
+        <link_condition/>
+        <link_roles/>
+        <list_edit_ref_qual_tag/>
+        <name>x_0232_bnbnow_stay</name>
+        <new_condition/>
+        <new_roles/>
+        <omit_columns_if_empty>false</omit_columns_if_empty>
+        <omit_if_empty>false</omit_if_empty>
+        <omit_links>false</omit_links>
+        <related_list>x_0232_bnbnow_unavailability.listing</related_list>
+        <sys_class_name>sys_ui_list_control_embedded</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-03 21:08:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>86fb9e21dbc3bb809bc7dec0cf9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_0232_bnbnow_stay</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_update_name>sys_ui_list_control_embedded_86fb9e21dbc3bb809bc7dec0cf9619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-03 21:08:08</sys_updated_on>
+    </sys_ui_list_control_embedded>
+</record_update>

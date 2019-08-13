@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rating" label="Rating" language="en" table="x_0232_bnbnow_review">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <help/>
+            <hint/>
+            <label>Rating</label>
+            <language>en</language>
+            <name>x_0232_bnbnow_review</name>
+            <plural>Ratings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-10 05:26:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>7b97c7ebdb0b33c09bc7dec0cf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rating</sys_name>
+            <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+            <sys_update_name>sys_documentation_x_0232_bnbnow_review_rating_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-10 05:26:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
