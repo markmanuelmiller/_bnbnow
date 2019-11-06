@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Location" section_id="59ebc9b4db9737c09bc7dec0cf9619ab" sys_domain="global" table="x_0232_bnbnow_stay" version="3" view="Guest">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-13 17:38:24</sys_created_on>
+            <sys_id>adeb0db4db9737c09bc7dec0cf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location" display_value="Location" name="x_0232_bnbnow_stay" sys_domain="global" view="95ebc9b4db9737c09bc7dec0cf9619a6">59ebc9b4db9737c09bc7dec0cf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-13 17:38:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city.state</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-13 17:38:24</sys_created_on>
+            <sys_id>25eb0db4db9737c09bc7dec0cf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location" display_value="Location" name="x_0232_bnbnow_stay" sys_domain="global" view="95ebc9b4db9737c09bc7dec0cf9619a6">59ebc9b4db9737c09bc7dec0cf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-13 17:38:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city.state.country</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-13 17:38:24</sys_created_on>
+            <sys_id>a9eb0db4db9737c09bc7dec0cf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location" display_value="Location" name="x_0232_bnbnow_stay" sys_domain="global" view="95ebc9b4db9737c09bc7dec0cf9619a6">59ebc9b4db9737c09bc7dec0cf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-13 17:38:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-13 17:38:24</sys_created_on>
+            <sys_id>21eb0db4db9737c09bc7dec0cf961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location" display_value="Location" name="x_0232_bnbnow_stay" sys_domain="global" view="95ebc9b4db9737c09bc7dec0cf9619a6">59ebc9b4db9737c09bc7dec0cf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-13 17:38:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Location</caption>
+            <header>false</header>
+            <name>x_0232_bnbnow_stay</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-13 17:38:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59ebc9b4db9737c09bc7dec0cf9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+            <sys_update_name>sys_ui_section_59ebc9b4db9737c09bc7dec0cf9619ab</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-13 17:38:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Guest" name="Guest">95ebc9b4db9737c09bc7dec0cf9619a6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

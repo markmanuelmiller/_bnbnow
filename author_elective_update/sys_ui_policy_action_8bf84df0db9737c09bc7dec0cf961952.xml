@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>start</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 17:25:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8bf84df0db9737c09bc7dec0cf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start</sys_name>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8bf84df0db9737c09bc7dec0cf961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 17:25:49</sys_updated_on>
+        <table>x_0232_bnbnow_reservation</table>
+        <ui_policy display_value="Always Read-Only">9dfd5307dbc3ff809bc7dec0cf9619d7</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</application>
+        <file_path/>
+        <instance_id>d1b950e36fcb7100ffcca9cc5d3ee44f</instance_id>
+        <instance_name>dev11993</instance_name>
+        <name>sys_ui_policy_action_8bf84df0db9737c09bc7dec0cf961952</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>start</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-13 17:25:49</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8bf84df0db9737c09bc7dec0cf961952</sys_id><sys_mod_count>0</sys_mod_count><sys_name>start</sys_name><sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope><sys_update_name>sys_ui_policy_action_8bf84df0db9737c09bc7dec0cf961952</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-13 17:25:49</sys_updated_on><table>x_0232_bnbnow_reservation</table><ui_policy display_value="Always Read-Only">9dfd5307dbc3ff809bc7dec0cf9619d7</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-868748878</payload_hash>
+        <record_name>start</record_name>
+        <reverted_from/>
+        <source>9c8c7b7cdb033b809bc7dec0cf961972</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 17:25:49</sys_created_on>
+        <sys_id>41094db0db9737c09bc7dec0cf9619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c8c03b6680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 17:25:49</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>49094db0569737c099336f880d0cf1a2</update_guid>
+        <update_guid_history>49094db0569737c099336f880d0cf1a2:-868748878</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 17:54:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>1079f7f6824f4fcf8701fff32ad94f11</sys_id>
+        <sys_metadata>8bf84df0db9737c09bc7dec0cf961952</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start</sys_name>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_parent display_value="Always Read-Only">9dfd5307dbc3ff809bc7dec0cf9619d7</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_scope_delete display_value="">568cea97b6f94982a5a3659fa7a58ac4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_8bf84df0db9737c09bc7dec0cf961952</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_8bf84df0db9737c09bc7dec0cf961952">41094db0db9737c09bc7dec0cf9619a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 17:54:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

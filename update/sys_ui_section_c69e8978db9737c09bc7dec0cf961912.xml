@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Details" section_id="8f63c085db433b809bc7dec0cf961981" sys_domain="global" table="x_0232_bnbnow_stay" version="3" view="">
+    <sys_ui_section caption="Details" section_id="c69e8978db9737c09bc7dec0cf961912" sys_domain="global" table="x_0232_bnbnow_stay" version="3" view="host">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>title</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>06fe01b8db9737c09bc7dec0cf961979</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>d29ec978db9737c09bc7dec0cf961912</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>price</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>8afe01b8db9737c09bc7dec0cf961979</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>5a9ec978db9737c09bc7dec0cf961912</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>description</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>02fe01b8db9737c09bc7dec0cf96197a</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>de9ec978db9737c09bc7dec0cf961912</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>type</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>86fe01b8db9737c09bc7dec0cf96197a</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>569ec978db9737c09bc7dec0cf961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>guests</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>0efe01b8db9737c09bc7dec0cf96197a</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>da9ec978db9737c09bc7dec0cf961913</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>beds</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>82fe01b8db9737c09bc7dec0cf96197b</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>529ec978db9737c09bc7dec0cf961914</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>bedrooms</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>0afe01b8db9737c09bc7dec0cf96197b</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>d69ec978db9737c09bc7dec0cf961914</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>baths</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>8efe01b8db9737c09bc7dec0cf96197b</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>5e9ec978db9737c09bc7dec0cf961914</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>house_rules</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>06fe01b8db9737c09bc7dec0cf96197c</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>d29ec978db9737c09bc7dec0cf961915</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>cancellation_policy</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:51:49</sys_created_on>
-            <sys_id>8afe01b8db9737c09bc7dec0cf96197c</sys_id>
+            <sys_created_on>2019-08-13 17:50:12</sys_created_on>
+            <sys_id>5a9ec978db9737c09bc7dec0cf961915</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">8f63c085db433b809bc7dec0cf961981</sys_ui_section>
+            <sys_ui_section caption="Details" display_value="Details" name="x_0232_bnbnow_stay" sys_domain="global" view="098e01abdb4733c09bc7dec0cf9619d8">c69e8978db9737c09bc7dec0cf961912</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:51:49</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -147,11 +147,11 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-01 20:44:32</sys_created_on>
+            <sys_created_on>2019-08-13 17:50:11</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8f63c085db433b809bc7dec0cf961981</sys_id>
+            <sys_id>c69e8978db9737c09bc7dec0cf961912</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Details</sys_name>
             <sys_overrides/>
@@ -159,12 +159,12 @@
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
-            <sys_update_name>sys_ui_section_8f63c085db433b809bc7dec0cf961981</sys_update_name>
+            <sys_update_name>sys_ui_section_c69e8978db9737c09bc7dec0cf961912</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-01 20:44:32</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:50:11</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="Host" name="host">098e01abdb4733c09bc7dec0cf9619d8</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

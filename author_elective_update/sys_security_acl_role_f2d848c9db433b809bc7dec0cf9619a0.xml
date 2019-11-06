@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 21:08:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f2d848c9db433b809bc7dec0cf9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_0232_bnbnow_listing_image.x_0232_bnbnow.user</sys_name>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_security_acl display_value="x_0232_bnbnow_listing_image">fad848c9db433b809bc7dec0cf96199b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f2d848c9db433b809bc7dec0cf9619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 21:08:17</sys_updated_on>
+        <sys_user_role display_value="x_0232_bnbnow.user" name="x_0232_bnbnow.user">588c3b7cdb033b809bc7dec0cf96195a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</application>
+        <file_path/>
+        <instance_id>d1b950e36fcb7100ffcca9cc5d3ee44f</instance_id>
+        <instance_name>dev11993</instance_name>
+        <name>sys_security_acl_role_f2d848c9db433b809bc7dec0cf9619a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-01 21:08:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f2d848c9db433b809bc7dec0cf9619a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_0232_bnbnow_listing_image.x_0232_bnbnow.user</sys_name><sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope><sys_security_acl display_value="x_0232_bnbnow_listing_image">fad848c9db433b809bc7dec0cf96199b</sys_security_acl><sys_update_name>sys_security_acl_role_f2d848c9db433b809bc7dec0cf9619a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-01 21:08:17</sys_updated_on><sys_user_role display_value="x_0232_bnbnow.user" name="x_0232_bnbnow.user">588c3b7cdb033b809bc7dec0cf96195a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1546129269</payload_hash>
+        <record_name>x_0232_bnbnow_listing_image.x_0232_bnbnow.user</record_name>
+        <reverted_from/>
+        <source>9c8c7b7cdb033b809bc7dec0cf961972</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 21:08:17</sys_created_on>
+        <sys_id>83d848c9db433b809bc7dec0cf9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c4f03150d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 21:08:17</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c3d848c99f433b80d6020896ee0652a4</update_guid>
+        <update_guid_history>c3d848c99f433b80d6020896ee0652a4:1546129269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2019-08-13 10:42:38">e3dc0df4db9737c09bc7dec0cf9619ac</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 17:42:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>67ccb1dab54b45fc930d5a62e3e5f690</sys_id>
+        <sys_metadata>f2d848c9db433b809bc7dec0cf9619a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_0232_bnbnow_listing_image.x_0232_bnbnow.user</sys_name>
+        <sys_package display_value="BnBNow" source="x_0232_bnbnow">088cbb3cdb8bf7809bc7dec0cf961961</sys_package>
+        <sys_parent display_value="x_0232_bnbnow_listing_image">fad848c9db433b809bc7dec0cf96199b</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
+        <sys_scope_delete display_value="">568cea97b6f94982a5a3659fa7a58ac4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f2d848c9db433b809bc7dec0cf9619a0</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f2d848c9db433b809bc7dec0cf9619a0">83d848c9db433b809bc7dec0cf9619b1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 17:42:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

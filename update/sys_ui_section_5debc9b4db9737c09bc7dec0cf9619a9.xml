@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="82b2c045db433b809bc7dec0cf961924" sys_domain="global" table="x_0232_bnbnow_stay" version="3" view="">
+    <sys_ui_section caption="" section_id="5debc9b4db9737c09bc7dec0cf9619a9" sys_domain="global" table="x_0232_bnbnow_stay" version="3" view="Guest">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:50:41</sys_created_on>
-            <sys_id>15be0d78db9737c09bc7dec0cf961911</sys_id>
+            <sys_created_on>2019-08-13 17:44:14</sys_created_on>
+            <sys_id>363d4538db9737c09bc7dec0cf961903</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">82b2c045db433b809bc7dec0cf961924</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_0232_bnbnow_stay" sys_domain="global" view="95ebc9b4db9737c09bc7dec0cf9619a6">5debc9b4db9737c09bc7dec0cf9619a9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:50:41</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>host</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-13 17:50:41</sys_created_on>
-            <sys_id>99be0d78db9737c09bc7dec0cf961911</sys_id>
+            <sys_created_on>2019-08-13 17:44:14</sys_created_on>
+            <sys_id>ba3d4538db9737c09bc7dec0cf961903</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_0232_bnbnow_stay" sys_domain="global" view="Default view">82b2c045db433b809bc7dec0cf961924</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_0232_bnbnow_stay" sys_domain="global" view="95ebc9b4db9737c09bc7dec0cf9619a6">5debc9b4db9737c09bc7dec0cf9619a9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-13 17:50:41</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:44:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -35,11 +35,11 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-01 20:41:28</sys_created_on>
+            <sys_created_on>2019-08-13 17:38:23</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>82b2c045db433b809bc7dec0cf961924</sys_id>
+            <sys_id>5debc9b4db9737c09bc7dec0cf9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_0232_bnbnow_stay</sys_name>
             <sys_overrides/>
@@ -47,12 +47,12 @@
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="BnBNow">088cbb3cdb8bf7809bc7dec0cf961961</sys_scope>
-            <sys_update_name>sys_ui_section_82b2c045db433b809bc7dec0cf961924</sys_update_name>
+            <sys_update_name>sys_ui_section_5debc9b4db9737c09bc7dec0cf9619a9</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-01 20:41:28</sys_updated_on>
+            <sys_updated_on>2019-08-13 17:38:23</sys_updated_on>
             <sys_user/>
-            <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <title>false</title>
+            <view display_value="Guest" name="Guest">95ebc9b4db9737c09bc7dec0cf9619a6</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
